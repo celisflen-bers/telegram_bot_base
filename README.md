@@ -25,9 +25,6 @@ Telegram Bot Api
 Ejemplos
 --------
 
-* PyVeBot [@PyveBot](http://telegram.me/pyvebot)
+* PyVeBot [@PyveBot](http://telegram.me/pyvebot)/[Repo](https://github.com/pyve/PyVenezuelaBot)
 * PyPiDev_Bot [@PyPiDev_Bot](http://telegram.me/PyPiDev_Bot)
-.....
-
-## Otros
-[P](http://www.5m.org/"hola")
+* https://core.telegram.org/bots/samples
