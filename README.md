@@ -27,4 +27,5 @@ Ejemplos
 
 * PyVeBot [@PyveBot](http://telegram.me/pyvebot)/[Repo](https://github.com/pyve/PyVenezuelaBot)
 * PyPiDev_Bot [@PyPiDev_Bot](http://telegram.me/PyPiDev_Bot)
-* https://core.telegram.org/bots/samples
+* IT Books Bot [IT_Books_Bot](https://github.com/leocabeza/it-books-bot)
+* Más: https://core.telegram.org/bots/samples
